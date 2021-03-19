@@ -1,0 +1,15 @@
+
+N
+java:S1068"1Remove this unused "playerTwoName" private field.( ’ÉÖ8ëÖÿ¼„/
+n	java:S115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§„òu
+0
+java:S1220""Move this file to a named package.
+n	java:S115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§„òu
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(šîÅ
+S
+java:S1068"1Remove this unused "playerOneName" private field.(ç«Ôûÿÿÿÿÿ8“±€½„/
+n	java:S115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§„òu
+K
+java:S11448"5Remove this unused private "getScoreByPoints" method.(¦Šÿ£
+n	java:S115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§„òu
